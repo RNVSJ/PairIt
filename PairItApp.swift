@@ -2,7 +2,7 @@
 //  PairItApp.swift
 //  MyApp
 //
-//  Created by Arnav Joshion 2026-09-15.
+//  Created by Arnav Joshi on 2026-09-15.
 //
 
 import SwiftUI
